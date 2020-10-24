@@ -1,4 +1,4 @@
-# The nicest industrial code I've read recently is this.
+# The nicest industrial code I've read recently is this Package. Forked as my reference code
 
 # memberlist [![GoDoc](https://godoc.org/github.com/hashicorp/memberlist?status.png)](https://godoc.org/github.com/hashicorp/memberlist) [![CircleCI](https://circleci.com/gh/hashicorp/memberlist.svg?style=svg)](https://circleci.com/gh/hashicorp/memberlist)
 
